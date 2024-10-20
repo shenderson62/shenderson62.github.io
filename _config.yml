@@ -22,13 +22,13 @@ repository               : "shenderson62/shenderson62.github.io"
 author:
   # Biographic information
   avatar           : "stephanie-img-tn.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Stephanie Henderson"
   pronouns         : # example: "she/her"  
   bio              : "Hello! I am a recent graduate from Georgia Tech, having earned a Master’s in Computer Science, specializing in Machine Learning, and a Bachelor’s focused on Intelligence and Information Internetworks. Currently, I work as a software engineer within the Storage and Retrieval Strategy (SRS) Team at Symbotic."
   location         : "Boston, MA"
-  employer         : "Symbotic"
+  employer         : "Georgia Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shenderson62@gatech.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
