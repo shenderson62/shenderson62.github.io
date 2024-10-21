@@ -26,12 +26,14 @@ Hello! I am a recent graduate from the Georgia Institute of Technology. In May 2
 ### 2022
 - **Fall**: Appointed as an Undergraduate Teaching Assistant for CS3510: Design and Analysis of Algorithms at Georgia Tech
 - **Fall**: Joined Embedded Pervasive Laboratory (EPL) at Georgia Tech as an Undergraduate Research Assistant
+- **Fall**: Served as a CS1100 Freshman Peer Mentor at Georgia Tech
 - **Summer**: Interned at Slalom Build as a Software Engineer Intern
 - **Spring**: Appointed as a Head Undergraduate Teaching Assistant for CS1331: Introduction to Object-Oriented Programming at Georgia Tech
 
 ### 2021
 - **Fall**: Appointed as an Undergraduate Teaching Assistant for CS1331: Introduction to Object-Oriented Programming at Georgia Tech
 - **Summer**: Appointed as an Undergraduate Teaching Assistant for CS1331: Introduction to Object-Oriented Programming at Georgia Tech
+- **Summer**: Served as a FASET Freshman Orientation Leader at Georgia Tech
 
 ### 2020
 - **Fall**: Started a B.S. in Computer Science at Georgia Tech with threads in Intelligence and Information Internetworks
