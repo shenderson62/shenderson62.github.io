@@ -14,12 +14,12 @@ main:
   - title: "Teaching"
     url: /teaching/   
 
-  - title: "CV"
-    url: /cv/
-    
   - title: "About"
-    url: /
-        
+    url: 
+
+  - title: "CV"
+    url: /files/stephanie-cv-oct.pdf
+    
   # - title: "Blog Posts"
   #   url: /year-archive/
     
