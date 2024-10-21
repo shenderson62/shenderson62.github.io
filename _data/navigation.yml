@@ -10,15 +10,15 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
-
+  - title: "About"
+    url: 
+    
   - title: "Teaching"
     url: teaching  
 
-  - title: "About"
-    url: 
 
   - title: "CV"
-    url: files/stephanie-cv-oct.pdf
+    url: /files/stephanie-cv-oct.pdf
     
   # - title: "Blog Posts"
   #   url: /year-archive/
