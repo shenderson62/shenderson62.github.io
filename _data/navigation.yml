@@ -12,13 +12,13 @@ main:
   #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/   
+    url: teaching  
 
   - title: "About"
-    url: /about/
+    url: about
 
   - title: "CV"
-    url: /files/stephanie-cv-oct.pdf
+    url: files/stephanie-cv-oct.pdf
     
   # - title: "Blog Posts"
   #   url: /year-archive/
