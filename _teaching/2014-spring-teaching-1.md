@@ -1,3 +1,6 @@
+---
+collection: teaching
+---
 ## Teaching Experience
 
 **Georgia Institute of Technology College of Computing, Atlanta, GA**
