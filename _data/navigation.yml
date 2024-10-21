@@ -14,14 +14,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Industry"
-    url: /portfolio/
+  - title: "About"
+    url: /
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "Teaching"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
