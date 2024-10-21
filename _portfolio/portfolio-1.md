@@ -3,6 +3,12 @@ collection: portfolio
 permalink: /portfolio
 title: Images
 ---
+<div style="text-align: center; width: 500px;">
+  <p>My brother, sister, and I after <a href="https://www.linkedin.com/feed/update/urn:li:activity:7193039371531415552/" target="_blank">May 2024 graduations</a> :)</p>
+  <img src="/images/group-img-crop.JPG" style="width: 500px;"/>
+</div>
+<br/>
+<br/>
 
 <div style="text-align: center; width: 500px;">
   <p>Some of the Spring 2024 Design and Analysis of Algorithms teaching team</p>
@@ -11,7 +17,7 @@ title: Images
 <br/>
 <br/>
 <div style="text-align: center; width: 500px;">
-  <p>Me at Microsoft's intern celebration at the ATL office :)</p>
+  <p>Me at Microsoft's intern celebration at the ATL office</p>
   <img src="/images/intern-celebration.jpg" style="width: 500px;"/>
 </div>
 <br/>
