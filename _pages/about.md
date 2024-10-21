@@ -7,7 +7,7 @@ redirect_from:
   - /about.html/
 ---
 
-Hello! I am a recent graduate from the Georgia Institute of Technology, having earned a Master’s in Computer Science, specializing in Machine Learning, and a Bachelor’s focused on Intelligence and Information Internetworks. Currently, I work as a Software Engineer within the Storage and Retrieval Strategy (SRS) Team at Symbotic.
+Hello! I am a recent graduate from the Georgia Institute of Technology. In May 2024, I earned a Master’s in Computer Science, specializing in Machine Learning. In May 2023, I graduated with a Bachelor’s in Computer Science, concentrating in Intelligence and Information Internetworks. Currently, I work as a Software Engineer within the Storage and Retrieval Strategy (SRS) Team at Symbotic, centered on automating warehouse robots.
 
 
 ## **News**
