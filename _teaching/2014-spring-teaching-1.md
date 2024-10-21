@@ -5,7 +5,7 @@ permalink: /teaching
 author_profile: true
 ---
 
-## Teaching Experience
+## Teaching Assistant (TA) Experience
 
 **Georgia Institute of Technology College of Computing, Atlanta, GA**
 
