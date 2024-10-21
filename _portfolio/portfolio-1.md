@@ -23,7 +23,7 @@ title: Images
 <br/>
 <br/>
 <div style="text-align: center; width: 500px;">
-  <p>Presenting a <a href="https://github.com/shenderson62/community-on-demand" target="_blank">mobile app</a> at Georgia Tech's Junior Design Competition</p>
+  <p>Presenting a <a href="https://github.com/shenderson62/community-on-demand" target="_blank">mobile app</a> at <a href="https://x.com/gt_sci/status/1599797629013331968?t=SCSeDSFEdS-ewnqfL8lqaw&s=19" target="_blank">Georgia Tech's Junior Design Competition</a></p>
   <img src="/images/junior-design-presentation.jpg" style="width: 500px;"/>
 </div>
 <br/>
