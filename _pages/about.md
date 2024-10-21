@@ -14,14 +14,14 @@ Hello! I am a recent graduate from the Georgia Institute of Technology, having e
 ## **News**
 
 ### 2024
-- **June**: Joined Symbotic as a software engineer
-- **May**: Completed a Master's in Computer Science from Georgia Tech, with a specialization in Machine Learning
+- **Summer**: Joined Symbotic as a software engineer
+- **Spring**: Completed a Master's in Computer Science from Georgia Tech, with a specialization in Machine Learning
 - **Spring**: Appointed as a Head Graduate Teaching Assistant for CS3510: Design and Analysis of Algorithms at Georgia Tech
 
 ### 2023
 - **Fall**: Appointed as an Graduate Teaching Assistant for CS3510: Design and Analysis of Algorithms at Georgia Tech
 - **Summer**: Interned at Microsoft as a software engineer intern
-- **May**: Graduated with a B.S. in Computer Science from Georgia Tech
+- **Spring**: Graduated with a B.S. in Computer Science from Georgia Tech
 - **Spring**: Appointed as a Head Undergraduate Teaching Assistant for CS3510: Design and Analysis of Algorithms at Georgia Tech
   
 ### 2022
@@ -35,5 +35,5 @@ Hello! I am a recent graduate from the Georgia Institute of Technology, having e
 - **Summer**: Appointed as an Undergraduate Teaching Assistant for CS1331: Introduction to Object-Oriented Programming at Georgia Tech
 
 ### 2020
-- **August**: Started a B.S. in Computer Science at Georgia Tech with threads in Intelligence and Information Internetworks
+- **Fall**: Started a B.S. in Computer Science at Georgia Tech with threads in Intelligence and Information Internetworks
 
