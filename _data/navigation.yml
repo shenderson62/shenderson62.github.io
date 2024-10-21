@@ -20,10 +20,10 @@ main:
   # - title: "CV"
   #   url: /files/stephanie-cv-oct.pdf
     
-  - title: "Portfolio"
+  - title: "Misc"
     url: /portfolio/
     
 
     
-  - title: "Gallery"
-    url: /markdown/
+  # - title: "Gallery"
+  #   url: /markdown/
