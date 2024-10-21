@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 ## Teaching Experience
 
 **Georgia Institute of Technology College of Computing, Atlanta, GA**
