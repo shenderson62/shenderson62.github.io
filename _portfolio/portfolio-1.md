@@ -4,8 +4,6 @@ permalink: /portfolio
 title: Images
 ---
 
-## Images <br/>
-
 <div style="text-align: center; width: 500px;">
   <p>Some of the Spring 2024 Design and Analysis of Algorithms TA team</p>
   <img src="/images/TA-group.jpeg" style="width: 500px;"/>
