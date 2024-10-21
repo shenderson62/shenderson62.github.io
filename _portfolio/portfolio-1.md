@@ -5,7 +5,7 @@ title: Images
 ---
 
 <div style="text-align: center; width: 500px;">
-  <p>Some of the Spring 2024 Design and Analysis of Algorithms TA team</p>
+  <p>Some of the Spring 2024 Design and Analysis of Algorithms teaching team</p>
   <img src="/images/TA-group.jpeg" style="width: 500px;"/>
 </div>
 <br/>
@@ -23,13 +23,13 @@ title: Images
 <br/>
 <br/>
 <div style="text-align: center; width: 500px;">
-  <p>Presenting a mobile app at Georgia Tech's Junior Design Competition</p>
+  <p>Presenting a <a href="https://github.com/shenderson62/community-on-demand" target="_blank">mobile app</a> at Georgia Tech's Junior Design Competition</p>
   <img src="/images/junior-design-presentation.jpg" style="width: 500px;"/>
 </div>
 <br/>
 <br/>
 <div style="text-align: center; width: 500px;">
-  <p>Group pic of the Slalom Build interns and employees at the Ponce Rooftop in ATL </p>
+  <p>Group pic of the Slalom Build interns and employees at the <a href="https://poncecityroof.com/" target="_blank">Ponce Rooftop</a> in ATL </p>
   <img src="/images/slalom-internship.jpg" style="width: 500px;"/>
 </div>
 
