@@ -17,8 +17,8 @@ main:
     url: teaching  
 
 
-  - title: "CV"
-    url: /files/stephanie-cv-oct.pdf
+  # - title: "CV"
+  #   url: /files/stephanie-cv-oct.pdf
     
   # - title: "Blog Posts"
   #   url: /year-archive/
